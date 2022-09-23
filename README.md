@@ -4,16 +4,17 @@
  
 Гэхдээ PowerBI нь угсарсан дашбордоо веб линк үүсгэн public тохиргоотой хуваалцаж болдог. Уг линкийг ашиглан PowerApps дээрээ лицензгүй хэрэглэгчид тухайн дашбордыг үзэж болно.
 
+Ажиллагааны дараалал:
 
-To add IFrame component:
+1.  PowerBI дашбордоо вебсайт хэлбэрээр хуваалцана
 
-1.  [Edit the portal](manage-existing-portals.md#edit) to open it in Power Apps portals Studio.  
+![components icon.](media/powerapp.png "Components icon")
 
 2.  Select the page on which you want to add the component.
 
 3.  Select an editable element on the canvas.
 
-4.  Select **Components** ![components icon.](media/powerapp.png "Components icon") from the left side of the screen.  
+4.  Select **Components** ![components icon.](media/webshare.png "Components icon") from the left side of the screen.  
 
 5.  Under **Portal components**, select **IFrame**. The IFrame placeholder is added to the canvas.
 
