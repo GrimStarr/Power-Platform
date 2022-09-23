@@ -1,6 +1,9 @@
-# Add IFrame
+# PowerBI Лицензийн тухай 
 
-Add IFrame component to your portal page to embed a webpage from any other website. 
+Бидний өмнө нь ашигладаг байсан тохиргоо нь лицензийн өөрчлөлтөөс болоод ашиглах боломжгүй болсон байна.
+ 
+Гэхдээ PowerBI нь угсарсан дашбордоо веб линк үүсгэн public тохиргоотой хуваалцаж болдог. Уг линкийг ашиглан PowerApps дээрээ лицензгүй хэрэглэгчид тухайн дашбордыг үзэж болно.
+
 
 To add IFrame component:
 
