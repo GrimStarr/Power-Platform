@@ -4,11 +4,11 @@
  
 Гэхдээ PowerBI нь угсарсан дашбордоо веб линк үүсгэн public тохиргоотой хуваалцаж болдог. Уг линкийг ашиглан PowerApps дээрээ лицензгүй хэрэглэгчид тухайн дашбордыг үзэж болно.
 
-Ажиллагааны дараалал:
+**Ажиллагааны дараалал:**
 
-1.  PowerBI дашбордоо вебсайт хэлбэрээр хуваалцана.
+1.  **PowerBI** дашбордоо вебсайт хэлбэрээр хуваалцана.
 
-     ![components icon.](media/webshare.png "Components icon")
+     ![alt text](media/webshare.png "Components icon")
 
 2.  Үүссэн [линкийг](https://app.powerbi.com/view?r=eyJrIjoiNGI0YTE3ZmEtOGYyYy00OGYwLTg0NjgtNTQwNTcxMTZkZGFkIiwidCI6IjJlNjIyMWI2LTkzN2EtNDQ5Yi05YTNmLWIzMjI3MzMxYzM3ZCIsImMiOjEwfQ%3D%3D) хуулна
 
