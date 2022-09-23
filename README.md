@@ -17,3 +17,5 @@
 3.  **PowerApp**-д бэлдсэн **component**-д тухайн линкийг хуулна.
 
     ![alt text](media/powerapp.png "Components icon")
+    
+Ингэснээр **PowerBI Pro** лицензгүй ч бусдаг хэрэглэгчид хуваалцсан дашбордыг үзэх боломжтой болно.
