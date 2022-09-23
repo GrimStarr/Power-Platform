@@ -6,11 +6,11 @@
 
 Ажиллагааны дараалал:
 
-1.  PowerBI дашбордоо вебсайт хэлбэрээр хуваалцана
+1.  PowerBI дашбордоо вебсайт хэлбэрээр хуваалцана.
 
-     ![components icon.](media/powerapp.png "Components icon")
+     ![components icon.](media/webshare.png "Components icon")
 
-2.  Select the page on which you want to add the component.
+2.  Үүссэн [линкийг]([/power-virtual-agents/publication-connect-bot-to-web-channels#custom-website](https://app.powerbi.com/view?r=eyJrIjoiNGI0YTE3ZmEtOGYyYy00OGYwLTg0NjgtNTQwNTcxMTZkZGFkIiwidCI6IjJlNjIyMWI2LTkzN2EtNDQ5Yi05YTNmLWIzMjI3MzMxYzM3ZCIsImMiOjEwfQ%3D%3D)) хуулна
 
 3.  Select an editable element on the canvas.
 
