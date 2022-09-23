@@ -1,19 +1,3 @@
----
-title: Add IFrame
-description: Learn about how to add IFrame component to a Power Apps portals page using portals Studio.
-author: neerajnandwana-msft
-
-ms.topic: conceptual
-ms.custom: 
-ms.date: 04/21/2021
-ms.subservice: portals
-ms.author: nenandw
-ms.reviewer: ndoelman
-contributors:
-    - neerajnandwana-msft
-    - nickdoelman
----
-
 # Add IFrame
 
 Add IFrame component to your portal page to embed a webpage from any other website. 
