@@ -8,7 +8,7 @@
 
 1.  PowerBI дашбордоо вебсайт хэлбэрээр хуваалцана
 
-![components icon.](media/powerapp.png "Components icon")
+     ![components icon.](media/powerapp.png "Components icon")
 
 2.  Select the page on which you want to add the component.
 
