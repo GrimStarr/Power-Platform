@@ -3,7 +3,7 @@
 
 **PowerBI** can create a web link to the built-in dashboard and share it with **public** settings. Using this link, other users can see the dashboard in their **PowerApps**.
 
-**Ажиллагааны дараалал:**
+**Sequence of work:**
 
 1.  Create and share your **PowerBI** dashboard.
 
